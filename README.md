@@ -1,4 +1,4 @@
-# comunicacao-entre-processos
+# TRABALHO 2: COMUNICAÇÃO ENTRE PROCESSOS
 
 # 1 Questão: 
 No problema do jantar dos filósofos, deixe o protocolo a seguir ser usado: um filósofo de número par sempre pega o seu garfo esquerdo antes de pegar o direito; um filósofo de número ímpar sempre pega o garfo direito antes de pegar o esquerdo. Esse protocolo vai garantir uma operação sem impasse?
